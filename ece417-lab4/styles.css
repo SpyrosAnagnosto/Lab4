@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.divclass {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  transform: translate(-50%, -50%);
+  border-style: hidden;
+  border-width: 5px;
+  border-color: rgb(180, 180, 180);
+  font-family:"Comic Sans MS", "Comic Sans", cursive;
+  background-color: none;
+  padding:20px;
+  
+}
+.button {
+  background-color: blue; /* Green */
+  border: none;
+  color: white;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: blue;
+  padding: 15px 25px;
+  border-radius: 12px;
+  width: 450px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  
+}
+.button2 {
+  background-color: red; 
+  border: none;
+  color: white;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: red;
+  padding: 15px 25px;
+  border-radius: 12px;
+  width: 450px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  
+}
